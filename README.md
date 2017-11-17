@@ -5,6 +5,19 @@
 Create an Amazon-like storefront with the MySQL. The app will take in orders from customers and deplete stock from the store's inventory. 
 Bonus task: Program the app to track product sales across the store's departments and then provide a summary of the highest-grossing departments in the store.
 
+
+## Video Solutions
+
+### [Click here for Customer-CLI Video Link](https://www.youtube.com/watch?v=zVFucUHEe0w)
+![Customer-CLI](/screenshots/bamazonCustomer.jpg)
+
+
+### [Click here for Manager-CLI Video Link](https://www.youtube.com/watch?v=l925Pxrcyrw)
+![Manager-CLI](/screenshots/bamazonManager.jpg)
+
+### [Click here for Supervisor-CLI Video Link](https://www.youtube.com/watch?v=rSnFSCSznGk)
+![Supervisor-CLI](/screenshots/bamazonSupervisor.jpg)
+
 ## Instructions
 
 ### Challenge #1: Customer View (Minimum Requirement)
@@ -111,5 +124,4 @@ Bonus task: Program the app to track product sales across the store's department
 
 - - -
 
-## Video Solutions
 
